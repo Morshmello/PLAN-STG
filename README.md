@@ -81,8 +81,6 @@ Story Points วัด**ความซับซ้อนและความ�
 
 #### Story Points Estimation Guide
 
-![Story Points Matrix](story-points-guide)
-
 | **Story Points** | **ความรู้เกี่ยวกับงาน** | **Dependencies** | **ความพยายามในการทำ** |
 |-----------------|------------------------|------------------|----------------------|
 | **1** | รู้ทุกอย่าง (Everything) | ไม่มี (None) | น้อยกว่า 2 ชม. |
