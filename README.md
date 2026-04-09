@@ -278,7 +278,6 @@ Sprint เดิม: 6 Partner + 2 Tech Debt + 1 Product + 1 Improvement
 
 
 **งานหลายช่วง Sprint**: หากงาน Improvement ครอบคลุมหลาย Sprint (ตามดุลยพินิจของ Lead) ยังคงต้องมีรายงานความคืบหน้า**ทุก Sprint**
-{% endhint %}
 
 ### เทมเพลตรายงานงาน Improvement
 
