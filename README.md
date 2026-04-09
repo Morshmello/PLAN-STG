@@ -258,9 +258,7 @@ Sprint เดิม: 6 Partner + 2 Tech Debt + 1 Product + 1 Improvement
 | **Retro** | Ceremony Day | 30-45 นาที |
 | **Planning** | Ceremony Day | 1-2 ชั่วโมง |
 
-{% hint style="warning" %}
 **คำเตือน**: ถ้า Refine ใช้เวลา 1 วันเต็ม แสดงว่า Task breakdown ไม่ดีพอ ควรทำ Continuous Refinement แทน
-{% endhint %}
 
 ---
 
